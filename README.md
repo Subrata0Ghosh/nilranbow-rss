@@ -12,3 +12,4 @@ This repository dynamically parses NilRanbow's Blogger JSON feed, extracts full-
 
 ## Automation
 A GitHub Action runs every 6 hours to fetch new posts and update `feed.xml` autonomously.
+

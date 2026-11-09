@@ -40,3 +40,4 @@ jobs:
             git commit -m "Auto-update feed with latest published Blogger articles"
             git push
           fi
+
