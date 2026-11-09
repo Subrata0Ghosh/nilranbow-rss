@@ -8,8 +8,22 @@
     <link>https://nilranbow.blogspot.com/</link>
     <description>Daily deep dives into the future of artificial intelligence, creative technology, and practical tools.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 12:12:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:43:17 +0000</lastBuildDate>
     <atom:link href="https://nilranbow.blogspot.com/feeds/posts/default?alt=rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond the Von Neumann Bottleneck: How Neuromorphic Silicon and Spiking Neural Networks Are Rewriting Edge AI on Milliwatts</title>
+      <link>https://nilranbow.blogspot.com/2026/11/beyond-von-neumann-bottleneck-how.html</link>
+      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/11/beyond-von-neumann-bottleneck-how.html</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" alt="Beyond the Von Neumann Bottleneck: How Neuromorphic Silicon and Spiking Neural Networks Are Rewriting Edge AI on Milliwatts" /></p><p>Special Report: In-depth investigation &amp; verified case study Modern artificial intelligence is facing an existential compute wall. Training and running large scale transformer models on conventional Graphics Processing Units (GPUs) demands gigawatts of energy, turning hyperscale datacenters into thermal hot spots. While traditional deep lear...</p>]]></description>
+      <content:encoded><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" alt="Beyond the Von Neumann Bottleneck: How Neuromorphic Silicon and Spiking Neural Networks Are Rewriting Edge AI on Milliwatts" /></p><p>Special Report: In-depth investigation &amp; verified case study Modern artificial intelligence is facing an existential compute wall. Training and running large scale transformer models on conventional Graphics Processing Units (GPUs) demands gigawatts of energy, turning hyperscale datacenters into thermal hot spots. While traditional deep lear...</p>]]></content:encoded>
+      <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" type="image/png" length="150000" />
+      <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" medium="image" type="image/png" width="1280" height="720">
+        <media:title>Beyond the Von Neumann Bottleneck: How Neuromorphic Silicon and Spiking Neural Networks Are Rewriting Edge AI on Milliwatts</media:title>
+        <media:description>Special Report: In-depth investigation &amp;amp; verified case study Modern artificial intelligence is facing an existential compute wall. Training and running large scale transformer models on conventional Graphics Processing Units (GPUs) demands gigawatts of energy, turning hyperscale datacenters into thermal hot spots. While traditional deep lear...</media:description>
+      </media:content>
+      <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" width="1280" height="720" />
+    </item>
     <item>
       <title>The Glass Threads of Global Commerce: How Vulnerable Undersea Cables Hold Up the World Economy</title>
       <link>https://nilranbow.blogspot.com/2026/11/the-glass-threads-of-global-commerce.html</link>
@@ -1087,20 +1101,6 @@
         <media:description>Special Report: In-depth investigation &amp;amp; verified case study Your phone chimes at 8:00 AM. It is not a payment confirmation. It is a WhatsApp message from an unknown international number sent to your boss, your mother, and your high school friends. Attached is a photo of your face, crudely edited onto an explicit image, paired with a caption...</media:description>
       </media:content>
       <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" width="1280" height="720" />
-    </item>
-    <item>
-      <title>The $25 Million Deepfake Trap: How AI-Generated Video Calls Are Fueling Executive Wire Frauds</title>
-      <link>https://nilranbow.blogspot.com/2026/10/the-25-million-deepfake-trap-how-ai.html</link>
-      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/10/the-25-million-deepfake-trap-how-ai.html</guid>
-      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQS7CpDp-XopFAcj-Nm5aKo53R_ysOO8zCGe_CUAyjxo75O_7Ht4H6cDT8uwnakEul8KTmGMDleJhCaVcVdE2q6vhlYryJdmEua2_QYyMsbJulzDjJmS71guweyPlqMV2vJL_vPT_5N8Zae_0BrzsxqoABbHUkkHzYRuZ7ngtxQJBr8Mg/s1600/image.png" alt="The $25 Million Deepfake Trap: How AI-Generated Video Calls Are Fueling Executive Wire Frauds" /></p><p>Special Report: In-depth investigation &amp; verified case study The camera blinked on. Familiar faces filled the grid. The Chief Executive Officer spoke directly to the finance worker. The voice was unmistakable. The mannerisms were exact. The request was simple: execute an ultra-secret, high-stakes corporate acquisition transfer. There was onl...</p>]]></description>
-      <content:encoded><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQS7CpDp-XopFAcj-Nm5aKo53R_ysOO8zCGe_CUAyjxo75O_7Ht4H6cDT8uwnakEul8KTmGMDleJhCaVcVdE2q6vhlYryJdmEua2_QYyMsbJulzDjJmS71guweyPlqMV2vJL_vPT_5N8Zae_0BrzsxqoABbHUkkHzYRuZ7ngtxQJBr8Mg/s1600/image.png" alt="The $25 Million Deepfake Trap: How AI-Generated Video Calls Are Fueling Executive Wire Frauds" /></p><p>Special Report: In-depth investigation &amp; verified case study The camera blinked on. Familiar faces filled the grid. The Chief Executive Officer spoke directly to the finance worker. The voice was unmistakable. The mannerisms were exact. The request was simple: execute an ultra-secret, high-stakes corporate acquisition transfer. There was onl...</p>]]></content:encoded>
-      <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQS7CpDp-XopFAcj-Nm5aKo53R_ysOO8zCGe_CUAyjxo75O_7Ht4H6cDT8uwnakEul8KTmGMDleJhCaVcVdE2q6vhlYryJdmEua2_QYyMsbJulzDjJmS71guweyPlqMV2vJL_vPT_5N8Zae_0BrzsxqoABbHUkkHzYRuZ7ngtxQJBr8Mg/s1600/image.png" type="image/png" length="150000" />
-      <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQS7CpDp-XopFAcj-Nm5aKo53R_ysOO8zCGe_CUAyjxo75O_7Ht4H6cDT8uwnakEul8KTmGMDleJhCaVcVdE2q6vhlYryJdmEua2_QYyMsbJulzDjJmS71guweyPlqMV2vJL_vPT_5N8Zae_0BrzsxqoABbHUkkHzYRuZ7ngtxQJBr8Mg/s1600/image.png" medium="image" type="image/png" width="1280" height="720">
-        <media:title>The $25 Million Deepfake Trap: How AI-Generated Video Calls Are Fueling Executive Wire Frauds</media:title>
-        <media:description>Special Report: In-depth investigation &amp;amp; verified case study The camera blinked on. Familiar faces filled the grid. The Chief Executive Officer spoke directly to the finance worker. The voice was unmistakable. The mannerisms were exact. The request was simple: execute an ultra-secret, high-stakes corporate acquisition transfer. There was onl...</media:description>
-      </media:content>
-      <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQS7CpDp-XopFAcj-Nm5aKo53R_ysOO8zCGe_CUAyjxo75O_7Ht4H6cDT8uwnakEul8KTmGMDleJhCaVcVdE2q6vhlYryJdmEua2_QYyMsbJulzDjJmS71guweyPlqMV2vJL_vPT_5N8Zae_0BrzsxqoABbHUkkHzYRuZ7ngtxQJBr8Mg/s1600/image.png" width="1280" height="720" />
     </item>
   </channel>
 </rss>
