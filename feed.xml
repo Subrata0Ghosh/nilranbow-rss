@@ -8,8 +8,22 @@
     <link>https://nilranbow.blogspot.com/</link>
     <description>Daily deep dives into the future of artificial intelligence, creative technology, and practical tools.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 22:39:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 03:48:36 +0000</lastBuildDate>
     <atom:link href="https://nilranbow.blogspot.com/feeds/posts/default?alt=rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cursor vs Windsurf vs Copilot: We Stress-Tested the Top AI Code Editors on a 50,000-Line Codebase</title>
+      <link>https://nilranbow.blogspot.com/2026/11/cursor-vs-windsurf-vs-copilot-we-stress.html</link>
+      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/11/cursor-vs-windsurf-vs-copilot-we-stress.html</guid>
+      <pubDate>Tue, 10 Nov 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_101_hero.png" alt="Cursor vs Windsurf vs Copilot: We Stress-Tested the Top AI Code Editors on a 50,000-Line Codebase" /></p><p>Special Report: In-depth investigation &amp; verified case study The modern developer pipeline is no longer about writing syntax line by line. It is an exercise in orchestrating autonomous AI agents across massive, interconnected software architectures. We put the three leading AI development environments—Cursor, Codeium’s Windsurf, and GitHub C...</p>]]></description>
+      <content:encoded><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_101_hero.png" alt="Cursor vs Windsurf vs Copilot: We Stress-Tested the Top AI Code Editors on a 50,000-Line Codebase" /></p><p>Special Report: In-depth investigation &amp; verified case study The modern developer pipeline is no longer about writing syntax line by line. It is an exercise in orchestrating autonomous AI agents across massive, interconnected software architectures. We put the three leading AI development environments—Cursor, Codeium’s Windsurf, and GitHub C...</p>]]></content:encoded>
+      <enclosure url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_101_hero.png" type="image/png" length="150000" />
+      <media:content url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_101_hero.png" medium="image" type="image/png" width="1280" height="720">
+        <media:title>Cursor vs Windsurf vs Copilot: We Stress-Tested the Top AI Code Editors on a 50,000-Line Codebase</media:title>
+        <media:description>Special Report: In-depth investigation &amp;amp; verified case study The modern developer pipeline is no longer about writing syntax line by line. It is an exercise in orchestrating autonomous AI agents across massive, interconnected software architectures. We put the three leading AI development environments—Cursor, Codeium’s Windsurf, and GitHub C...</media:description>
+      </media:content>
+      <media:thumbnail url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_101_hero.png" width="1280" height="720" />
+    </item>
     <item>
       <title>The Invisible Revolution: How Ambient AI Will Erase Our Screens</title>
       <link>https://nilranbow.blogspot.com/2026/11/the-invisible-revolution-how-ambient-ai.html</link>
@@ -1059,34 +1073,6 @@
         <media:description>Special Report: In-depth investigation &amp;amp; verified case study An AI model is only as secure as the data it absorbs. For years, enterprises believed that feeding proprietary code, financial ledgers, and raw credentials into large language models (LLMs) was safe. As long as users didn't ask for secrets directly, the system would keep them hidde...</media:description>
       </media:content>
       <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQS7CpDp-XopFAcj-Nm5aKo53R_ysOO8zCGe_CUAyjxo75O_7Ht4H6cDT8uwnakEul8KTmGMDleJhCaVcVdE2q6vhlYryJdmEua2_QYyMsbJulzDjJmS71guweyPlqMV2vJL_vPT_5N8Zae_0BrzsxqoABbHUkkHzYRuZ7ngtxQJBr8Mg/s1600/image.png" width="1280" height="720" />
-    </item>
-    <item>
-      <title>The 2026 Prompt Heist: How AI Jailbreakers Bypass GPT-4o and Claude 3.5 Guardrails</title>
-      <link>https://nilranbow.blogspot.com/2026/10/the-2026-prompt-heist-how-ai.html</link>
-      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/10/the-2026-prompt-heist-how-ai.html</guid>
-      <pubDate>Sun, 25 Oct 2026 02:30:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-b2uS9UzGpX7nHZqeKY9lnY1g9u3XEzLlwCIa3_JUtTIi4hKRAodg0LwRYn46xYtRFr8gSUsZ_-euei4nSfPlCdvMjEkz2O0AkgEbEsuoTb_2nx4fmXDqY9WecY2QbSFaYAO2yuwfrYRAqM5lYVX3Th5wU3DbMveY6f7VZdI1fcpro9qSJaFOrNzMrg/s1600/ai-workforce-evolution-automation-vs-opportunity.png" alt="The 2026 Prompt Heist: How AI Jailbreakers Bypass GPT-4o and Claude 3.5 Guardrails" /></p><p>Special Report: In-depth investigation &amp; verified case study The boundaries are collapsing. Modern frontier models are hyper-intelligent. They are heavily guarded. And they are consistently outsmarted. By 2026, adversarial prompt engineering has evolved from a novelty hacker pastime into a sophisticated, multi-layered cyber discipline. While...</p>]]></description>
-      <content:encoded><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-b2uS9UzGpX7nHZqeKY9lnY1g9u3XEzLlwCIa3_JUtTIi4hKRAodg0LwRYn46xYtRFr8gSUsZ_-euei4nSfPlCdvMjEkz2O0AkgEbEsuoTb_2nx4fmXDqY9WecY2QbSFaYAO2yuwfrYRAqM5lYVX3Th5wU3DbMveY6f7VZdI1fcpro9qSJaFOrNzMrg/s1600/ai-workforce-evolution-automation-vs-opportunity.png" alt="The 2026 Prompt Heist: How AI Jailbreakers Bypass GPT-4o and Claude 3.5 Guardrails" /></p><p>Special Report: In-depth investigation &amp; verified case study The boundaries are collapsing. Modern frontier models are hyper-intelligent. They are heavily guarded. And they are consistently outsmarted. By 2026, adversarial prompt engineering has evolved from a novelty hacker pastime into a sophisticated, multi-layered cyber discipline. While...</p>]]></content:encoded>
-      <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-b2uS9UzGpX7nHZqeKY9lnY1g9u3XEzLlwCIa3_JUtTIi4hKRAodg0LwRYn46xYtRFr8gSUsZ_-euei4nSfPlCdvMjEkz2O0AkgEbEsuoTb_2nx4fmXDqY9WecY2QbSFaYAO2yuwfrYRAqM5lYVX3Th5wU3DbMveY6f7VZdI1fcpro9qSJaFOrNzMrg/s1600/ai-workforce-evolution-automation-vs-opportunity.png" type="image/png" length="150000" />
-      <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-b2uS9UzGpX7nHZqeKY9lnY1g9u3XEzLlwCIa3_JUtTIi4hKRAodg0LwRYn46xYtRFr8gSUsZ_-euei4nSfPlCdvMjEkz2O0AkgEbEsuoTb_2nx4fmXDqY9WecY2QbSFaYAO2yuwfrYRAqM5lYVX3Th5wU3DbMveY6f7VZdI1fcpro9qSJaFOrNzMrg/s1600/ai-workforce-evolution-automation-vs-opportunity.png" medium="image" type="image/png" width="1280" height="720">
-        <media:title>The 2026 Prompt Heist: How AI Jailbreakers Bypass GPT-4o and Claude 3.5 Guardrails</media:title>
-        <media:description>Special Report: In-depth investigation &amp;amp; verified case study The boundaries are collapsing. Modern frontier models are hyper-intelligent. They are heavily guarded. And they are consistently outsmarted. By 2026, adversarial prompt engineering has evolved from a novelty hacker pastime into a sophisticated, multi-layered cyber discipline. While...</media:description>
-      </media:content>
-      <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-b2uS9UzGpX7nHZqeKY9lnY1g9u3XEzLlwCIa3_JUtTIi4hKRAodg0LwRYn46xYtRFr8gSUsZ_-euei4nSfPlCdvMjEkz2O0AkgEbEsuoTb_2nx4fmXDqY9WecY2QbSFaYAO2yuwfrYRAqM5lYVX3Th5wU3DbMveY6f7VZdI1fcpro9qSJaFOrNzMrg/s1600/ai-workforce-evolution-automation-vs-opportunity.png" width="1280" height="720" />
-    </item>
-    <item>
-      <title>Inside the Great AI Data Leak: How Proprietary Code Escaped into ChatGPT and Forced Tech Giants to Lock Down</title>
-      <link>https://nilranbow.blogspot.com/2026/10/inside-great-ai-data-leak-how.html</link>
-      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/10/inside-great-ai-data-leak-how.html</guid>
-      <pubDate>Sat, 24 Oct 2026 23:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" alt="Inside the Great AI Data Leak: How Proprietary Code Escaped into ChatGPT and Forced Tech Giants to Lock Down" /></p><p>Special Report: In-depth investigation &amp; verified case study A few lines of unoptimized C++ code. A click of the copy button. A paste into a web browser prompt box. Within three seconds, confidential semiconductor intellectual property moved from a secured enterprise terminal in South Korea to external cloud servers in North America. It did ...</p>]]></description>
-      <content:encoded><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" alt="Inside the Great AI Data Leak: How Proprietary Code Escaped into ChatGPT and Forced Tech Giants to Lock Down" /></p><p>Special Report: In-depth investigation &amp; verified case study A few lines of unoptimized C++ code. A click of the copy button. A paste into a web browser prompt box. Within three seconds, confidential semiconductor intellectual property moved from a secured enterprise terminal in South Korea to external cloud servers in North America. It did ...</p>]]></content:encoded>
-      <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" type="image/png" length="150000" />
-      <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" medium="image" type="image/png" width="1280" height="720">
-        <media:title>Inside the Great AI Data Leak: How Proprietary Code Escaped into ChatGPT and Forced Tech Giants to Lock Down</media:title>
-        <media:description>Special Report: In-depth investigation &amp;amp; verified case study A few lines of unoptimized C++ code. A click of the copy button. A paste into a web browser prompt box. Within three seconds, confidential semiconductor intellectual property moved from a secured enterprise terminal in South Korea to external cloud servers in North America. It did ...</media:description>
-      </media:content>
-      <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" width="1280" height="720" />
     </item>
   </channel>
 </rss>
