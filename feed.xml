@@ -8,8 +8,22 @@
     <link>https://nilranbow.blogspot.com/</link>
     <description>Daily deep dives into the future of artificial intelligence, creative technology, and practical tools.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 23:51:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:56:40 +0000</lastBuildDate>
     <atom:link href="https://nilranbow.blogspot.com/feeds/posts/default?alt=rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Much VRAM Do You Actually Need for Local AI Models in 2026? The Exact Math Behind LLM Hardware</title>
+      <link>https://nilranbow.blogspot.com/2026/11/how-much-vram-do-you-actually-need-for.html</link>
+      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/11/how-much-vram-do-you-actually-need-for.html</guid>
+      <pubDate>Wed, 11 Nov 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_106_hero.png" alt="How Much VRAM Do You Actually Need for Local AI Models in 2026? The Exact Math Behind LLM Hardware" /></p><p>Special Report: In-depth investigation &amp; verified case study The local AI gold rush has hit a wall of cold, hard mathematics. Thousands of developers, enterprise engineers, and hardware enthusiasts are spending exorbitant sums on high-end GPUs, only to hit CUDA out of memory errors on their very first prompt. The problem? Most buyer guides r...</p>]]></description>
+      <content:encoded><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_106_hero.png" alt="How Much VRAM Do You Actually Need for Local AI Models in 2026? The Exact Math Behind LLM Hardware" /></p><p>Special Report: In-depth investigation &amp; verified case study The local AI gold rush has hit a wall of cold, hard mathematics. Thousands of developers, enterprise engineers, and hardware enthusiasts are spending exorbitant sums on high-end GPUs, only to hit CUDA out of memory errors on their very first prompt. The problem? Most buyer guides r...</p>]]></content:encoded>
+      <enclosure url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_106_hero.png" type="image/png" length="150000" />
+      <media:content url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_106_hero.png" medium="image" type="image/png" width="1280" height="720">
+        <media:title>How Much VRAM Do You Actually Need for Local AI Models in 2026? The Exact Math Behind LLM Hardware</media:title>
+        <media:description>Special Report: In-depth investigation &amp;amp; verified case study The local AI gold rush has hit a wall of cold, hard mathematics. Thousands of developers, enterprise engineers, and hardware enthusiasts are spending exorbitant sums on high-end GPUs, only to hit CUDA out of memory errors on their very first prompt. The problem? Most buyer guides r...</media:description>
+      </media:content>
+      <media:thumbnail url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_106_hero.png" width="1280" height="720" />
+    </item>
     <item>
       <title>Vibe Coding: Inside Andrej Karpathy’s Shift and Its Cyber Risks</title>
       <link>https://nilranbow.blogspot.com/2026/11/vibe-coding-inside-andrej-karpathys.html</link>
@@ -1059,20 +1073,6 @@
         <media:description>Special Report: In-depth investigation &amp;amp; verified case study The grace period is over. Across Silicon Valley and London, corporate legal councils and AI safety teams are working through back-to-back emergency compliance audits. Brussels has officially transformed its landmark Artificial Intelligence Act into enforceable statutory reality. Fo...</media:description>
       </media:content>
       <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-b2uS9UzGpX7nHZqeKY9lnY1g9u3XEzLlwCIa3_JUtTIi4hKRAodg0LwRYn46xYtRFr8gSUsZ_-euei4nSfPlCdvMjEkz2O0AkgEbEsuoTb_2nx4fmXDqY9WecY2QbSFaYAO2yuwfrYRAqM5lYVX3Th5wU3DbMveY6f7VZdI1fcpro9qSJaFOrNzMrg/s1600/ai-workforce-evolution-automation-vs-opportunity.png" width="1280" height="720" />
-    </item>
-    <item>
-      <title>Diagnostic Blindspots: How ER AI Assistants Are Hallucinating Rare Pediatric Conditions</title>
-      <link>https://nilranbow.blogspot.com/2026/10/diagnostic-blindspots-how-er-ai.html</link>
-      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/10/diagnostic-blindspots-how-er-ai.html</guid>
-      <pubDate>Mon, 26 Oct 2026 02:30:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" alt="Diagnostic Blindspots: How ER AI Assistants Are Hallucinating Rare Pediatric Conditions" /></p><p>Special Report: In-depth investigation &amp; verified case study A four-year-old child presents to a busy suburban emergency department with a four-day fever, bloodshot eyes, and a faint trunk rash. The attending physician, managing six critical patients simultaneously, inputs the vitals and clinical notes into an experimental, LLM-powered Clini...</p>]]></description>
-      <content:encoded><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" alt="Diagnostic Blindspots: How ER AI Assistants Are Hallucinating Rare Pediatric Conditions" /></p><p>Special Report: In-depth investigation &amp; verified case study A four-year-old child presents to a busy suburban emergency department with a four-day fever, bloodshot eyes, and a faint trunk rash. The attending physician, managing six critical patients simultaneously, inputs the vitals and clinical notes into an experimental, LLM-powered Clini...</p>]]></content:encoded>
-      <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" type="image/png" length="150000" />
-      <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" medium="image" type="image/png" width="1280" height="720">
-        <media:title>Diagnostic Blindspots: How ER AI Assistants Are Hallucinating Rare Pediatric Conditions</media:title>
-        <media:description>Special Report: In-depth investigation &amp;amp; verified case study A four-year-old child presents to a busy suburban emergency department with a four-day fever, bloodshot eyes, and a faint trunk rash. The attending physician, managing six critical patients simultaneously, inputs the vitals and clinical notes into an experimental, LLM-powered Clini...</media:description>
-      </media:content>
-      <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" width="1280" height="720" />
     </item>
   </channel>
 </rss>
