@@ -8,8 +8,22 @@
     <link>https://nilranbow.blogspot.com/</link>
     <description>Daily deep dives into the future of artificial intelligence, creative technology, and practical tools.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 22:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 03:52:25 +0000</lastBuildDate>
     <atom:link href="https://nilranbow.blogspot.com/feeds/posts/default?alt=rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Fix 'Ollama Connection Refused 11434' on Windows and Mac (Complete Guide)</title>
+      <link>https://nilranbow.blogspot.com/2026/11/how-to-fix-ollama-connection-refused.html</link>
+      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/11/how-to-fix-ollama-connection-refused.html</guid>
+      <pubDate>Sun, 15 Nov 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_111_hero.png" alt="How to Fix 'Ollama Connection Refused 11434' on Windows and Mac (Complete Guide)" /></p><p>Special Report: In-depth investigation &amp; verified case study Your local AI pipeline halts without warning. A custom script or web client targeting your local LLM returns a blunt networking error: Failed to connect to 127.0.0.1 port 11434: Connection refused or ERR_CONNECTION_REFUSED . The interface stalls. Open WebUI, LangChain, or your cust...</p>]]></description>
+      <content:encoded><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_111_hero.png" alt="How to Fix 'Ollama Connection Refused 11434' on Windows and Mac (Complete Guide)" /></p><p>Special Report: In-depth investigation &amp; verified case study Your local AI pipeline halts without warning. A custom script or web client targeting your local LLM returns a blunt networking error: Failed to connect to 127.0.0.1 port 11434: Connection refused or ERR_CONNECTION_REFUSED . The interface stalls. Open WebUI, LangChain, or your cust...</p>]]></content:encoded>
+      <enclosure url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_111_hero.png" type="image/png" length="150000" />
+      <media:content url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_111_hero.png" medium="image" type="image/png" width="1280" height="720">
+        <media:title>How to Fix 'Ollama Connection Refused 11434' on Windows and Mac (Complete Guide)</media:title>
+        <media:description>Special Report: In-depth investigation &amp;amp; verified case study Your local AI pipeline halts without warning. A custom script or web client targeting your local LLM returns a blunt networking error: Failed to connect to 127.0.0.1 port 11434: Connection refused or ERR_CONNECTION_REFUSED . The interface stalls. Open WebUI, LangChain, or your cust...</media:description>
+      </media:content>
+      <media:thumbnail url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_111_hero.png" width="1280" height="720" />
+    </item>
     <item>
       <title>Beyond the ChatGPT Wrapper: 5 High-Yield AI Micro-SaaS Business Models You Can Build This Weekend</title>
       <link>https://nilranbow.blogspot.com/2026/11/beyond-chatgpt-wrapper-5-high-yield-ai.html</link>
@@ -1059,20 +1073,6 @@
         <media:description>Special Report: In-depth investigation &amp;amp; verified case study Your phone sits silently on your desk. No link is clicked. No attachment is opened. No incoming call is answered. Yet, while your screen remains dark, your device’s camera, microphone, location history, and end-to-end encrypted messages are compromised. This is the reality of moder...</media:description>
       </media:content>
       <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQS7CpDp-XopFAcj-Nm5aKo53R_ysOO8zCGe_CUAyjxo75O_7Ht4H6cDT8uwnakEul8KTmGMDleJhCaVcVdE2q6vhlYryJdmEua2_QYyMsbJulzDjJmS71guweyPlqMV2vJL_vPT_5N8Zae_0BrzsxqoABbHUkkHzYRuZ7ngtxQJBr8Mg/s1600/image.png" width="1280" height="720" />
-    </item>
-    <item>
-      <title>Inside the Dark Web’s AI Boom: How WormGPT and FraudGPT Built a Turnkey Cybercrime Economy</title>
-      <link>https://nilranbow.blogspot.com/2026/10/inside-dark-webs-ai-boom-how-wormgpt.html</link>
-      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/10/inside-dark-webs-ai-boom-how-wormgpt.html</guid>
-      <pubDate>Tue, 27 Oct 2026 02:30:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" alt="Inside the Dark Web’s AI Boom: How WormGPT and FraudGPT Built a Turnkey Cybercrime Economy" /></p><p>Special Report: In-depth investigation &amp; verified case study A threat actor opens a Telegram channel, pays $100 in Monero, and gains access to an uncensored Large Language Model (LLM). Within seconds, the user inputs a single prompt: “Write a high-converting executive spear-phishing email targeting a CFO, impersonating the CEO, requesting an...</p>]]></description>
-      <content:encoded><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" alt="Inside the Dark Web’s AI Boom: How WormGPT and FraudGPT Built a Turnkey Cybercrime Economy" /></p><p>Special Report: In-depth investigation &amp; verified case study A threat actor opens a Telegram channel, pays $100 in Monero, and gains access to an uncensored Large Language Model (LLM). Within seconds, the user inputs a single prompt: “Write a high-converting executive spear-phishing email targeting a CFO, impersonating the CEO, requesting an...</p>]]></content:encoded>
-      <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" type="image/png" length="150000" />
-      <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" medium="image" type="image/png" width="1280" height="720">
-        <media:title>Inside the Dark Web’s AI Boom: How WormGPT and FraudGPT Built a Turnkey Cybercrime Economy</media:title>
-        <media:description>Special Report: In-depth investigation &amp;amp; verified case study A threat actor opens a Telegram channel, pays $100 in Monero, and gains access to an uncensored Large Language Model (LLM). Within seconds, the user inputs a single prompt: “Write a high-converting executive spear-phishing email targeting a CFO, impersonating the CEO, requesting an...</media:description>
-      </media:content>
-      <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" width="1280" height="720" />
     </item>
   </channel>
 </rss>
