@@ -8,8 +8,22 @@
     <link>https://nilranbow.blogspot.com/</link>
     <description>Daily deep dives into the future of artificial intelligence, creative technology, and practical tools.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 00:13:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:49:00 +0000</lastBuildDate>
     <atom:link href="https://nilranbow.blogspot.com/feeds/posts/default?alt=rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Fix 'zsh: command not found' in VS Code Terminal: The Ultimate Developer PATH Repair Guide</title>
+      <link>https://nilranbow.blogspot.com/2026/11/how-to-fix-zsh-command-not-found-in-vs.html</link>
+      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/11/how-to-fix-zsh-command-not-found-in-vs.html</guid>
+      <pubDate>Tue, 17 Nov 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_113_hero.png" alt="How to Fix 'zsh: command not found' in VS Code Terminal: The Ultimate Developer PATH Repair Guide" /></p><p>Special Report: In-depth investigation &amp; verified case study You open Visual Studio Code to ship code. You run python3 , node , git , or brew . Instead of an active runtime, your screen spits back an immediate block: zsh: command not found: node . It works perfectly in your native macOS Terminal. Yet, inside VS Code’s integrated terminal, yo...</p>]]></description>
+      <content:encoded><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_113_hero.png" alt="How to Fix 'zsh: command not found' in VS Code Terminal: The Ultimate Developer PATH Repair Guide" /></p><p>Special Report: In-depth investigation &amp; verified case study You open Visual Studio Code to ship code. You run python3 , node , git , or brew . Instead of an active runtime, your screen spits back an immediate block: zsh: command not found: node . It works perfectly in your native macOS Terminal. Yet, inside VS Code’s integrated terminal, yo...</p>]]></content:encoded>
+      <enclosure url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_113_hero.png" type="image/png" length="150000" />
+      <media:content url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_113_hero.png" medium="image" type="image/png" width="1280" height="720">
+        <media:title>How to Fix 'zsh: command not found' in VS Code Terminal: The Ultimate Developer PATH Repair Guide</media:title>
+        <media:description>Special Report: In-depth investigation &amp;amp; verified case study You open Visual Studio Code to ship code. You run python3 , node , git , or brew . Instead of an active runtime, your screen spits back an immediate block: zsh: command not found: node . It works perfectly in your native macOS Terminal. Yet, inside VS Code’s integrated terminal, yo...</media:description>
+      </media:content>
+      <media:thumbnail url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_113_hero.png" width="1280" height="720" />
+    </item>
     <item>
       <title>The $2,000 Cloud Trap: How Bootstrapped Founders Are Running 70B LLMs on Bare-Metal for $45/Month</title>
       <link>https://nilranbow.blogspot.com/2026/11/the-2000-cloud-trap-how-bootstrapped.html</link>
@@ -1059,20 +1073,6 @@
         <media:description>Special Report: In-depth investigation &amp;amp; verified case study Type in a new password. Click reset. Problem solved. Now try resetting your thumbprint. Or the detailed patterns of your iris. Or the structural topography of your face. You can't. When a standard centralized password database is compromised, security teams issue a global force-res...</media:description>
       </media:content>
       <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQS7CpDp-XopFAcj-Nm5aKo53R_ysOO8zCGe_CUAyjxo75O_7Ht4H6cDT8uwnakEul8KTmGMDleJhCaVcVdE2q6vhlYryJdmEua2_QYyMsbJulzDjJmS71guweyPlqMV2vJL_vPT_5N8Zae_0BrzsxqoABbHUkkHzYRuZ7ngtxQJBr8Mg/s1600/image.png" width="1280" height="720" />
-    </item>
-    <item>
-      <title>Spied on by the Vacuum: How Smart Home Vision Data Leaked from Living Rooms to Public Forums</title>
-      <link>https://nilranbow.blogspot.com/2026/10/spied-on-by-vacuum-how-smart-home.html</link>
-      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/10/spied-on-by-vacuum-how-smart-home.html</guid>
-      <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" alt="Spied on by the Vacuum: How Smart Home Vision Data Leaked from Living Rooms to Public Forums" /></p><p>Special Report: In-depth investigation &amp; verified case study A robot vacuum quietly rolls across a living room rug. Its front-facing camera scans the floor, identifying spatial obstacles to navigate around furniture. Months later, photos captured from that exact low-angle perspective appear on private messaging apps and public internet forum...</p>]]></description>
-      <content:encoded><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" alt="Spied on by the Vacuum: How Smart Home Vision Data Leaked from Living Rooms to Public Forums" /></p><p>Special Report: In-depth investigation &amp; verified case study A robot vacuum quietly rolls across a living room rug. Its front-facing camera scans the floor, identifying spatial obstacles to navigate around furniture. Months later, photos captured from that exact low-angle perspective appear on private messaging apps and public internet forum...</p>]]></content:encoded>
-      <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" type="image/png" length="150000" />
-      <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" medium="image" type="image/png" width="1280" height="720">
-        <media:title>Spied on by the Vacuum: How Smart Home Vision Data Leaked from Living Rooms to Public Forums</media:title>
-        <media:description>Special Report: In-depth investigation &amp;amp; verified case study A robot vacuum quietly rolls across a living room rug. Its front-facing camera scans the floor, identifying spatial obstacles to navigate around furniture. Months later, photos captured from that exact low-angle perspective appear on private messaging apps and public internet forum...</media:description>
-      </media:content>
-      <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" width="1280" height="720" />
     </item>
   </channel>
 </rss>
