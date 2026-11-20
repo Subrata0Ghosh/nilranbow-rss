@@ -8,8 +8,22 @@
     <link>https://nilranbow.blogspot.com/</link>
     <description>Daily deep dives into the future of artificial intelligence, creative technology, and practical tools.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:37:25 +0000</lastBuildDate>
     <atom:link href="https://nilranbow.blogspot.com/feeds/posts/default?alt=rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conquering PyTorch’s 'CUDA Out of Memory' Error: 6 Engineering Solutions to Slash VRAM Usage by 60%</title>
+      <link>https://nilranbow.blogspot.com/2026/11/conquering-pytorchs-cuda-out-of-memory.html</link>
+      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/11/conquering-pytorchs-cuda-out-of-memory.html</guid>
+      <pubDate>Thu, 19 Nov 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_115_hero.png" alt="Conquering PyTorch’s 'CUDA Out of Memory' Error: 6 Engineering Solutions to Slash VRAM Usage by 60%" /></p><p>Special Report: In-depth investigation &amp; verified case study The progress bar reaches 99%. Fourteen hours into fine-tuning a transformer model, the process halts abruptly. Your terminal dumps a wall of stack trace text ending in a familiar failure mode: RuntimeError: CUDA out of memory. Tried to allocate 2.00 GiB (GPU 0; 24.00 GiB total capa...</p>]]></description>
+      <content:encoded><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_115_hero.png" alt="Conquering PyTorch’s 'CUDA Out of Memory' Error: 6 Engineering Solutions to Slash VRAM Usage by 60%" /></p><p>Special Report: In-depth investigation &amp; verified case study The progress bar reaches 99%. Fourteen hours into fine-tuning a transformer model, the process halts abruptly. Your terminal dumps a wall of stack trace text ending in a familiar failure mode: RuntimeError: CUDA out of memory. Tried to allocate 2.00 GiB (GPU 0; 24.00 GiB total capa...</p>]]></content:encoded>
+      <enclosure url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_115_hero.png" type="image/png" length="150000" />
+      <media:content url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_115_hero.png" medium="image" type="image/png" width="1280" height="720">
+        <media:title>Conquering PyTorch’s 'CUDA Out of Memory' Error: 6 Engineering Solutions to Slash VRAM Usage by 60%</media:title>
+        <media:description>Special Report: In-depth investigation &amp;amp; verified case study The progress bar reaches 99%. Fourteen hours into fine-tuning a transformer model, the process halts abruptly. Your terminal dumps a wall of stack trace text ending in a familiar failure mode: RuntimeError: CUDA out of memory. Tried to allocate 2.00 GiB (GPU 0; 24.00 GiB total capa...</media:description>
+      </media:content>
+      <media:thumbnail url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_115_hero.png" width="1280" height="720" />
+    </item>
     <item>
       <title>Local AI Without the Cloud: How to Run DeepSeek-R1 on 8GB RAM Laptops</title>
       <link>https://nilranbow.blogspot.com/2026/11/local-ai-without-cloud-how-to-run.html</link>
@@ -1059,20 +1073,6 @@
         <media:description>Special Report: In-depth investigation &amp;amp; verified case study The classic indicators of a phishing email are officially dead. For two decades, corporate security awareness programs relied on a simple rule of thumb: check for broken syntax, absurd spelling errors, generic greetings, and erratic formatting. If an email claimed to come from your...</media:description>
       </media:content>
       <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" width="1280" height="720" />
-    </item>
-    <item>
-      <title>The 10-Minute Routing Heist: How BGP Poisoning Drained Millions in Crypto Without Touching a Single Server</title>
-      <link>https://nilranbow.blogspot.com/2026/10/the-10-minute-routing-heist-how-bgp.html</link>
-      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/10/the-10-minute-routing-heist-how-bgp.html</guid>
-      <pubDate>Thu, 29 Oct 2026 02:30:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" alt="The 10-Minute Routing Heist: How BGP Poisoning Drained Millions in Crypto Without Touching a Single Server" /></p><p>Special Report: In-depth investigation &amp; verified case study The servers were pristine. The smart contracts were audited. The DevOps logs showed zero unauthorized logins. Yet, in under ten minutes, millions of dollars in digital assets vanished into the void. To the end-users executing transactions, everything looked entirely legitimate. The...</p>]]></description>
-      <content:encoded><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" alt="The 10-Minute Routing Heist: How BGP Poisoning Drained Millions in Crypto Without Touching a Single Server" /></p><p>Special Report: In-depth investigation &amp; verified case study The servers were pristine. The smart contracts were audited. The DevOps logs showed zero unauthorized logins. Yet, in under ten minutes, millions of dollars in digital assets vanished into the void. To the end-users executing transactions, everything looked entirely legitimate. The...</p>]]></content:encoded>
-      <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" type="image/png" length="150000" />
-      <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" medium="image" type="image/png" width="1280" height="720">
-        <media:title>The 10-Minute Routing Heist: How BGP Poisoning Drained Millions in Crypto Without Touching a Single Server</media:title>
-        <media:description>Special Report: In-depth investigation &amp;amp; verified case study The servers were pristine. The smart contracts were audited. The DevOps logs showed zero unauthorized logins. Yet, in under ten minutes, millions of dollars in digital assets vanished into the void. To the end-users executing transactions, everything looked entirely legitimate. The...</media:description>
-      </media:content>
-      <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" width="1280" height="720" />
     </item>
   </channel>
 </rss>
