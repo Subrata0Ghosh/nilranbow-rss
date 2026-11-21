@@ -8,8 +8,22 @@
     <link>https://nilranbow.blogspot.com/</link>
     <description>Daily deep dives into the future of artificial intelligence, creative technology, and practical tools.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 23:29:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 04:50:12 +0000</lastBuildDate>
     <atom:link href="https://nilranbow.blogspot.com/feeds/posts/default?alt=rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Silent Automation: How to Run Python Scripts on Windows Startup with Zero Background Windows</title>
+      <link>https://nilranbow.blogspot.com/2026/11/silent-automation-how-to-run-python.html</link>
+      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/11/silent-automation-how-to-run-python.html</guid>
+      <pubDate>Fri, 20 Nov 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_116_hero.png" alt="Silent Automation: How to Run Python Scripts on Windows Startup with Zero Background Windows" /></p><p>Special Report: In-depth investigation &amp; verified case study You boot up your Windows workstation. Your automated scripts trigger as expected. Then comes the annoyance: an ugly, black Command Prompt window flashes on screen, stealing focus and cluttering your desktop. Whether you are running local network microservices, backup sync routines,...</p>]]></description>
+      <content:encoded><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_116_hero.png" alt="Silent Automation: How to Run Python Scripts on Windows Startup with Zero Background Windows" /></p><p>Special Report: In-depth investigation &amp; verified case study You boot up your Windows workstation. Your automated scripts trigger as expected. Then comes the annoyance: an ugly, black Command Prompt window flashes on screen, stealing focus and cluttering your desktop. Whether you are running local network microservices, backup sync routines,...</p>]]></content:encoded>
+      <enclosure url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_116_hero.png" type="image/png" length="150000" />
+      <media:content url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_116_hero.png" medium="image" type="image/png" width="1280" height="720">
+        <media:title>Silent Automation: How to Run Python Scripts on Windows Startup with Zero Background Windows</media:title>
+        <media:description>Special Report: In-depth investigation &amp;amp; verified case study You boot up your Windows workstation. Your automated scripts trigger as expected. Then comes the annoyance: an ugly, black Command Prompt window flashes on screen, stealing focus and cluttering your desktop. Whether you are running local network microservices, backup sync routines,...</media:description>
+      </media:content>
+      <media:thumbnail url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_116_hero.png" width="1280" height="720" />
+    </item>
     <item>
       <title>Conquering PyTorch’s 'CUDA Out of Memory' Error: 6 Engineering Solutions to Slash VRAM Usage by 60%</title>
       <link>https://nilranbow.blogspot.com/2026/11/conquering-pytorchs-cuda-out-of-memory.html</link>
@@ -1059,20 +1073,6 @@
         <media:description>Special Report: In-depth investigation &amp;amp; verified case study Click every bicycle. Identify the traffic lights. Type the distorted, wavy text. For over two decades, humanity maintained an implicit agreement with the internet: complete short, unpaid micro-tasks to prove our biological humanity. We digitized scanned books for Google, trained au...</media:description>
       </media:content>
       <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjmGCbVXjOfabe1YG7z-pUjS2XF-VfblTQ5rNz5A0xioLIjsSQTW8N6zeT2tn7l7Qp88iB-QzTVC0UmyzWh5sz4Tcy8Bh-3T3HG16U8gJD57bEmmIsGFEch7px_hoezNeleS0stgCJKh2iavB1I3YfAVPg_Dpl67ZPxdzKtfRPJ9DM0xQ/s1600/image.png" width="1280" height="720" />
-    </item>
-    <item>
-      <title>The End of the Typo: How AI Engines Turned LinkedIn Profiles into Hyper-Convincing Phishing Weapons</title>
-      <link>https://nilranbow.blogspot.com/2026/10/the-end-of-typo-how-ai-engines-turned.html</link>
-      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/10/the-end-of-typo-how-ai-engines-turned.html</guid>
-      <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" alt="The End of the Typo: How AI Engines Turned LinkedIn Profiles into Hyper-Convincing Phishing Weapons" /></p><p>Special Report: In-depth investigation &amp; verified case study The classic indicators of a phishing email are officially dead. For two decades, corporate security awareness programs relied on a simple rule of thumb: check for broken syntax, absurd spelling errors, generic greetings, and erratic formatting. If an email claimed to come from your...</p>]]></description>
-      <content:encoded><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" alt="The End of the Typo: How AI Engines Turned LinkedIn Profiles into Hyper-Convincing Phishing Weapons" /></p><p>Special Report: In-depth investigation &amp; verified case study The classic indicators of a phishing email are officially dead. For two decades, corporate security awareness programs relied on a simple rule of thumb: check for broken syntax, absurd spelling errors, generic greetings, and erratic formatting. If an email claimed to come from your...</p>]]></content:encoded>
-      <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" type="image/png" length="150000" />
-      <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" medium="image" type="image/png" width="1280" height="720">
-        <media:title>The End of the Typo: How AI Engines Turned LinkedIn Profiles into Hyper-Convincing Phishing Weapons</media:title>
-        <media:description>Special Report: In-depth investigation &amp;amp; verified case study The classic indicators of a phishing email are officially dead. For two decades, corporate security awareness programs relied on a simple rule of thumb: check for broken syntax, absurd spelling errors, generic greetings, and erratic formatting. If an email claimed to come from your...</media:description>
-      </media:content>
-      <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" width="1280" height="720" />
     </item>
   </channel>
 </rss>
