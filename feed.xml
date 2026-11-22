@@ -8,8 +8,22 @@
     <link>https://nilranbow.blogspot.com/</link>
     <description>Daily deep dives into the future of artificial intelligence, creative technology, and practical tools.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 22:36:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 04:06:14 +0000</lastBuildDate>
     <atom:link href="https://nilranbow.blogspot.com/feeds/posts/default?alt=rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Local AI Breakthrough: How to Run Whisper.cpp on Apple Silicon with Metal Acceleration for Free, Instant Off-Grid Transcription</title>
+      <link>https://nilranbow.blogspot.com/2026/11/local-ai-breakthrough-how-to-run.html</link>
+      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/11/local-ai-breakthrough-how-to-run.html</guid>
+      <pubDate>Sat, 21 Nov 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_117_hero.png" alt="Local AI Breakthrough: How to Run Whisper.cpp on Apple Silicon with Metal Acceleration for Free, Instant Off-Grid Transcription" /></p><p>Special Report: In-depth investigation &amp; verified case study Cloud transcription APIs are charging you for data privacy you aren't receiving. Every time an enterprise uploads audio files to third-party Software-as-a-Service (SaaS) endpoints, sensitive voice data—ranging from proprietary board meetings to confidential legal depositions—is exp...</p>]]></description>
+      <content:encoded><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_117_hero.png" alt="Local AI Breakthrough: How to Run Whisper.cpp on Apple Silicon with Metal Acceleration for Free, Instant Off-Grid Transcription" /></p><p>Special Report: In-depth investigation &amp; verified case study Cloud transcription APIs are charging you for data privacy you aren't receiving. Every time an enterprise uploads audio files to third-party Software-as-a-Service (SaaS) endpoints, sensitive voice data—ranging from proprietary board meetings to confidential legal depositions—is exp...</p>]]></content:encoded>
+      <enclosure url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_117_hero.png" type="image/png" length="150000" />
+      <media:content url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_117_hero.png" medium="image" type="image/png" width="1280" height="720">
+        <media:title>Local AI Breakthrough: How to Run Whisper.cpp on Apple Silicon with Metal Acceleration for Free, Instant Off-Grid Transcription</media:title>
+        <media:description>Special Report: In-depth investigation &amp;amp; verified case study Cloud transcription APIs are charging you for data privacy you aren't receiving. Every time an enterprise uploads audio files to third-party Software-as-a-Service (SaaS) endpoints, sensitive voice data—ranging from proprietary board meetings to confidential legal depositions—is exp...</media:description>
+      </media:content>
+      <media:thumbnail url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_117_hero.png" width="1280" height="720" />
+    </item>
     <item>
       <title>Silent Automation: How to Run Python Scripts on Windows Startup with Zero Background Windows</title>
       <link>https://nilranbow.blogspot.com/2026/11/silent-automation-how-to-run-python.html</link>
