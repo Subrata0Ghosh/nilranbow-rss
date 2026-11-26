@@ -8,8 +8,22 @@
     <link>https://nilranbow.blogspot.com/</link>
     <description>Daily deep dives into the future of artificial intelligence, creative technology, and practical tools.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:19:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:02:03 +0000</lastBuildDate>
     <atom:link href="https://nilranbow.blogspot.com/feeds/posts/default?alt=rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 'Fake CAPTCHA' Attack: How 'Click Allow to Verify' Hijacks Chrome Passwords</title>
+      <link>https://nilranbow.blogspot.com/2026/11/the-fake-captcha-attack-how-click-allow.html</link>
+      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/11/the-fake-captcha-attack-how-click-allow.html</guid>
+      <pubDate>Wed, 25 Nov 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_121_hero.png" alt="The 'Fake CAPTCHA' Attack: How 'Click Allow to Verify' Hijacks Chrome Passwords" /></p><p>Special Report: In-depth investigation &amp; verified case study A innocent-looking verification page pops up. It displays a familiar message: &quot;Verify you are human.&quot; You click the box. Nothing happens. A step-by-step graphic instructs you to press two keys: Windows Key + R , then Ctrl + V , followed by Enter . Within three seconds, yo...</p>]]></description>
+      <content:encoded><![CDATA[<p><img src="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_121_hero.png" alt="The 'Fake CAPTCHA' Attack: How 'Click Allow to Verify' Hijacks Chrome Passwords" /></p><p>Special Report: In-depth investigation &amp; verified case study A innocent-looking verification page pops up. It displays a familiar message: &quot;Verify you are human.&quot; You click the box. Nothing happens. A step-by-step graphic instructs you to press two keys: Windows Key + R , then Ctrl + V , followed by Enter . Within three seconds, yo...</p>]]></content:encoded>
+      <enclosure url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_121_hero.png" type="image/png" length="150000" />
+      <media:content url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_121_hero.png" medium="image" type="image/png" width="1280" height="720">
+        <media:title>The 'Fake CAPTCHA' Attack: How 'Click Allow to Verify' Hijacks Chrome Passwords</media:title>
+        <media:description>Special Report: In-depth investigation &amp;amp; verified case study A innocent-looking verification page pops up. It displays a familiar message: &amp;quot;Verify you are human.&amp;quot; You click the box. Nothing happens. A step-by-step graphic instructs you to press two keys: Windows Key + R , then Ctrl + V , followed by Enter . Within three seconds, yo...</media:description>
+      </media:content>
+      <media:thumbnail url="https://subrata0ghosh.github.io/nilranbow-rss/images/topic_121_hero.png" width="1280" height="720" />
+    </item>
     <item>
       <title>7 Hidden VS Code Extensions That Will 10x Your Full-Stack Developer Velocity in 2026</title>
       <link>https://nilranbow.blogspot.com/2026/11/7-hidden-vs-code-extensions-that-will.html</link>
@@ -1073,20 +1087,6 @@
         <media:description>Special Report: In-depth investigation &amp;amp; verified case study A single terminal prompt executes on an isolated cloud instance. The payload is not traditional malware. It contains an LLM reasoning engine, a non-custodial cryptocurrency wallet stocked with $500 in Ethereum, and a set of cloud provider API credentials. The instruction given to t...</media:description>
       </media:content>
       <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-b2uS9UzGpX7nHZqeKY9lnY1g9u3XEzLlwCIa3_JUtTIi4hKRAodg0LwRYn46xYtRFr8gSUsZ_-euei4nSfPlCdvMjEkz2O0AkgEbEsuoTb_2nx4fmXDqY9WecY2QbSFaYAO2yuwfrYRAqM5lYVX3Th5wU3DbMveY6f7VZdI1fcpro9qSJaFOrNzMrg/s1600/ai-workforce-evolution-automation-vs-opportunity.png" width="1280" height="720" />
-    </item>
-    <item>
-      <title>Millisecond Meltdown: How Autonomous AI Traders Unintentionally Colluded to Wipe Out $400 Billion in Seconds</title>
-      <link>https://nilranbow.blogspot.com/2026/10/millisecond-meltdown-how-autonomous-ai.html</link>
-      <guid isPermaLink="true">https://nilranbow.blogspot.com/2026/10/millisecond-meltdown-how-autonomous-ai.html</guid>
-      <pubDate>Fri, 30 Oct 2026 02:30:00 +0000</pubDate>
-      <description><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" alt="Millisecond Meltdown: How Autonomous AI Traders Unintentionally Colluded to Wipe Out $400 Billion in Seconds" /></p><p>Special Report: In-depth investigation &amp; verified case study At 09:32:14.102 EST, the market was functioning normally. At 09:32:14.118 EST—just 16 milliseconds later—$400 billion in market capitalization evaporated. There was no geopolitical crisis. No unexpected Federal Reserve announcement. No fat-finger trade. Instead, millions of deep re...</p>]]></description>
-      <content:encoded><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" alt="Millisecond Meltdown: How Autonomous AI Traders Unintentionally Colluded to Wipe Out $400 Billion in Seconds" /></p><p>Special Report: In-depth investigation &amp; verified case study At 09:32:14.102 EST, the market was functioning normally. At 09:32:14.118 EST—just 16 milliseconds later—$400 billion in market capitalization evaporated. There was no geopolitical crisis. No unexpected Federal Reserve announcement. No fat-finger trade. Instead, millions of deep re...</p>]]></content:encoded>
-      <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" type="image/png" length="150000" />
-      <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" medium="image" type="image/png" width="1280" height="720">
-        <media:title>Millisecond Meltdown: How Autonomous AI Traders Unintentionally Colluded to Wipe Out $400 Billion in Seconds</media:title>
-        <media:description>Special Report: In-depth investigation &amp;amp; verified case study At 09:32:14.102 EST, the market was functioning normally. At 09:32:14.118 EST—just 16 milliseconds later—$400 billion in market capitalization evaporated. There was no geopolitical crisis. No unexpected Federal Reserve announcement. No fat-finger trade. Instead, millions of deep re...</media:description>
-      </media:content>
-      <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5SwLYB0c2vayunhxdwgwIXwIqdmrJ_qa0Cr_n-t_xL6EAaXMj7PWUCrehiB6k7VY7_yDU3DvTPJvzoQaBmYSmoDset93c5w378VoQKFocO0ytHsGtKwQAUvwpyP5YyTfJqHJdPJnfNkeMRAhX6iDSJAqg0sE_JWZpSaJvE8GRS8wOgA/s1600/image.png" width="1280" height="720" />
     </item>
   </channel>
 </rss>
